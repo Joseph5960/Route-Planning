@@ -35,6 +35,7 @@ A complete path planning project implemented in **C++** and **Python**, featurin
 ---
 
 ## 项目结构 / Project Structure
+```
 项目结构
 path-planning/
 ├─ CMakeLists.txt
@@ -111,7 +112,7 @@ path-planning/
 └─ tools/
    ├─ build_all.sh               # 一键构建/测试/benchmark脚本
    └─ format_lint.sh             # clang-format/clang-tidy
-
+```
 
 ---
 
